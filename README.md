@@ -56,4 +56,4 @@ Ao finalizar a sua aplicação, crie um pull request no projeto de origem.
 
 **Prazo**
 
-O prazo para criar o pull request é até o dia **02/03/2020** às **12h**.
+O prazo para criar o pull request é **10 dias corridos** após a aprovação da **Inscrição** [https://vagasewave.gupy.io/jobs/175024].
